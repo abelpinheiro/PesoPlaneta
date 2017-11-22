@@ -7,5 +7,5 @@ Below you can see a demonstration of the program running
 Interface inicial do programa ao ser inicializado<br/>
 
 
-![Programa após digitado um peso qualquer e selecionado um planeta qualquer](http://imageshack.com/a/img922/3847/YrKbbe.png?raw=true "interface ao ser selecionado um item")
+![Programa após digitado um peso qualquer e selecionado um planeta qualquer](http://imageshack.com/a/img922/3847/YrKbbe.png?raw=true "interface ao ser selecionado um item")<br/>
 Programa após digitado um peso qualquer e selecionado um planeta qualquer
