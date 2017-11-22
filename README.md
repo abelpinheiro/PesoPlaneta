@@ -1,7 +1,7 @@
 # PesoPlaneta
-A simple program that gives a certain weight according to a planet.
-This program was created by Abel Pinheiro and Matheus Cordeiro.
-Below you can see a demonstration of the program running
+A simple program that gives a certain weight according to a planet.</br>
+This program was created by Abel Pinheiro and Matheus Cordeiro.</br>
+Below you can see a demonstration of the program running</br>
 
 ![Interface inicial do programa ao ser inicializado](http://imageshack.com/a/img922/6476/1IodTJ.png?raw=true "interface inicial")<br/>
 Interface inicial do programa ao ser inicializado<br/>
