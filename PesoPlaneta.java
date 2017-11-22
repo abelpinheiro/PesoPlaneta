@@ -33,8 +33,8 @@ public class PesoPlaneta implements ActionListener
                    layout.getRbura().setSelected(false);
                    layout.getRbjup().setSelected(false);
                    
-                   double PesoPlaneta = (PesoTerra / 10) * 0.37;
-                   String resultado = String.format("%.2fN", PesoPlaneta);
+                   double PesoPlaneta = (PesoTerra) * 0.38;
+                   String resultado = String.format("%.2fkg", PesoPlaneta);
                    layout.getTfmostraRes().setText(resultado);       
                    
            }
@@ -47,8 +47,8 @@ public class PesoPlaneta implements ActionListener
                    layout.getRbura().setSelected(false);
                    layout.getRbjup().setSelected(false);
                      
-                   double PesoPlaneta = (PesoTerra / 10) * 0.88;
-                   String resultado = String.format("%.2fN", PesoPlaneta);
+                   double PesoPlaneta = (PesoTerra) * 0.91;
+                   String resultado = String.format("%.2fkg", PesoPlaneta);
                    layout.getTfmostraRes().setText(resultado);
                                 
            }
@@ -61,8 +61,8 @@ public class PesoPlaneta implements ActionListener
                   layout.getRbjup().setSelected(false);
                   layout.getRbjup().setSelected(false);
                
-                  double PesoPlaneta = (PesoTerra / 10) * 0.38;
-                  String resultado = String.format("%.2fN", PesoPlaneta);
+                  double PesoPlaneta = (PesoTerra) * 0.92;
+                  String resultado = String.format("%.2fkg", PesoPlaneta);
                   layout.getTfmostraRes().setText(resultado);
                           
            }
@@ -75,8 +75,8 @@ public class PesoPlaneta implements ActionListener
                    layout.getRbura().setSelected(false);
                    layout.getRbmerc().setSelected(false);
                      
-                   double PesoPlaneta = (PesoTerra / 10) * 2.64;
-                   String resultado = String.format("%.2fN", PesoPlaneta);
+                   double PesoPlaneta = (PesoTerra) * 2.34;
+                   String resultado = String.format("%.2fkg", PesoPlaneta);
                    layout.getTfmostraRes().setText(resultado);
                           
            }
@@ -89,8 +89,8 @@ public class PesoPlaneta implements ActionListener
                   layout.getRbura().setSelected(false);
                   layout.getRbjup().setSelected(false);
                
-                  double PesoPlaneta = (PesoTerra / 10) * 1.15;
-                  String resultado = String.format("%.2fN", PesoPlaneta);
+                  double PesoPlaneta = (PesoTerra) * 1.06;
+                  String resultado = String.format("%.2fkg", PesoPlaneta);
                   layout.getTfmostraRes().setText(resultado);
                 
            }
@@ -103,8 +103,8 @@ public class PesoPlaneta implements ActionListener
                   layout.getRbura().setSelected(false);
                   layout.getRbjup().setSelected(false);
                
-                  double PesoPlaneta = (PesoTerra / 10) * 1.17;
-                  String resultado = String.format("%.2fN", PesoPlaneta);
+                  double PesoPlaneta = (PesoTerra) * 0.38;
+                  String resultado = String.format("%.2fkg", PesoPlaneta);
                   layout.getTfmostraRes().setText(resultado);
                   
            }
